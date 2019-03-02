@@ -1,0 +1,31 @@
+{
+  "name": "lab3-reactjs",
+  "version": "1.0.0",
+  "description": "lab3 work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiru07/Application-Frameworks---Lab3.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "kiru07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiru07/Application-Frameworks---Lab3/issues"
+  },
+  "homepage": "https://github.com/kiru07/Application-Frameworks---Lab3#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
