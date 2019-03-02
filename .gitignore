@@ -3,3 +3,7 @@
 
 #ignore installed node package files
 node_modules/
+
+#ignore build files
+dist/
+.cache/
